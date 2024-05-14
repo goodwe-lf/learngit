@@ -9,3 +9,4 @@ Git tracks changs of files.
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
 Creating a new branch is quick and simple.
+12345
